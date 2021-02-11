@@ -1,106 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2021-02-11T07:41:53.532Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="zh_w6wPpQeGTwTQmqQlC" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-11T07:43:34.287Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="8TxpVYqoWiHqklz7Kk4t" version="14.3.0" type="github">
   <diagram id="LIq7Lr1K4e5IxUutSK0b" name="Page-1">
     <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-1" value="Halaman Utama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-2" value="Produk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-3" value="Daftar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-4" value="Masuk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-5" value="Mentega" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-6" value="Form Pendaftaran" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-10" value="Halaman Utama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-11" value="Produk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-12" value="Profil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-13" value="Keranjang Belanja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-14" value="Mentega" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-15" value="Pembayaran" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-16" value="Status Pembayaran" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kfwKO3NVyIeIwV1F-UYE-1" target="kfwKO3NVyIeIwV1F-UYE-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="310" as="sourcePoint" />
-            <mxPoint x="450" y="260" as="targetPoint" />
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kfwKO3NVyIeIwV1F-UYE-1" target="kfwKO3NVyIeIwV1F-UYE-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="80" as="sourcePoint" />
-            <mxPoint x="660" y="100" as="targetPoint" />
+            <mxPoint x="410" y="120" as="sourcePoint" />
+            <mxPoint x="650" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-20" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kfwKO3NVyIeIwV1F-UYE-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="70" as="sourcePoint" />
-            <mxPoint x="670" y="110" as="targetPoint" />
+            <mxPoint x="400" y="110" as="sourcePoint" />
+            <mxPoint x="660" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-21" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="kfwKO3NVyIeIwV1F-UYE-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="70" as="sourcePoint" />
-            <mxPoint x="650" y="100" as="targetPoint" />
+            <mxPoint x="390" y="110" as="sourcePoint" />
+            <mxPoint x="640" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-22" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kfwKO3NVyIeIwV1F-UYE-3" target="kfwKO3NVyIeIwV1F-UYE-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="310" as="sourcePoint" />
-            <mxPoint x="450" y="260" as="targetPoint" />
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-25" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kfwKO3NVyIeIwV1F-UYE-4" target="kfwKO3NVyIeIwV1F-UYE-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="180" as="sourcePoint" />
-            <mxPoint x="280" y="210" as="targetPoint" />
+            <mxPoint x="270" y="220" as="sourcePoint" />
+            <mxPoint x="270" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-26" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kfwKO3NVyIeIwV1F-UYE-10" target="kfwKO3NVyIeIwV1F-UYE-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="190" as="sourcePoint" />
-            <mxPoint x="290" y="220" as="targetPoint" />
+            <mxPoint x="280" y="230" as="sourcePoint" />
+            <mxPoint x="280" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-27" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kfwKO3NVyIeIwV1F-UYE-10" target="kfwKO3NVyIeIwV1F-UYE-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="200" as="sourcePoint" />
-            <mxPoint x="300" y="230" as="targetPoint" />
+            <mxPoint x="290" y="240" as="sourcePoint" />
+            <mxPoint x="290" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-29" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kfwKO3NVyIeIwV1F-UYE-13" target="kfwKO3NVyIeIwV1F-UYE-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="270" as="sourcePoint" />
-            <mxPoint x="570" y="330" as="targetPoint" />
+            <mxPoint x="470" y="310" as="sourcePoint" />
+            <mxPoint x="560" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kfwKO3NVyIeIwV1F-UYE-30" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kfwKO3NVyIeIwV1F-UYE-15" target="kfwKO3NVyIeIwV1F-UYE-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="280" as="sourcePoint" />
-            <mxPoint x="580" y="340" as="targetPoint" />
+            <mxPoint x="480" y="320" as="sourcePoint" />
+            <mxPoint x="570" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
